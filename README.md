@@ -5,9 +5,8 @@
 - 📫 How to reach me ...
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=aktas&show_icons=true&theme=radical)
-![tryhackme stats](https://raw.githubusercontent.com/aktas/aktas/master/assets/thm_propic.png)
+
 
 <!---
-aktas/aktas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+![tryhackme stats](https://raw.githubusercontent.com/aktas/aktas/master/assets/thm_propic.png)
 --->
